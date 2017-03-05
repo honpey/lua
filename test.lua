@@ -1,6 +1,7 @@
 --region *.lua
 --Date
 --This file is auto generated 
+-- 严丝合缝啊
 
 function showinfo()
 	print("Welcome to lua world !!! ")
